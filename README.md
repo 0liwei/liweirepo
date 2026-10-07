@@ -1,5 +1,3 @@
 HEAD
 # liweirepo
-test
-genshin impact
-yoooooo
+test TEST 測試
